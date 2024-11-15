@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulshah24&label=Profile%20views&color=0e75b6&style=flat" alt="anshulshah24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshulshah24" alt="anshulshah24" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **anshulshah2403@gmail.com**
