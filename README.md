@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Shah</h1>
-<h3 align="center">"Building the Future with MERN Stack & Blockchain | Web Dev Enthusiast"</h3>
+<h3 align="center">Here’s another option: "Building the Future with MERN Stack & Blockchain | Web Dev Enthusiast"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulshah24&label=Profile%20views&color=0e75b6&style=flat" alt="anshulshah24" /> </p>
 
@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulshah24&show_icons=true&locale=en&layout=compact" alt="anshulshah24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshulshah24&show_icons=true&locale=en" alt="anshulshah24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulshah24&" alt="anshulshah24" /></p>
